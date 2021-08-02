@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image: url(../images/727.gif);/*:old url:../images/Bilibili_Festa_2019.png*/
+	animation: 100px;
+	background-repeat: repeat;
+	background-color: #A42619;
+}#ijkplayer {
+	margin-top: 300px;
+
+
+s
+	margin-right: auto;
+	margin-left: auto;
+	width: 100%;
+	border-top-style: double;
+	border-right-style: double;
+	border-bottom-style: double;
+	border-left-style: double;
+	border-top-color: #FF3300;
+	border-right-color: #FF3300;
+	border-bottom-color: #FF3300;
+	border-left-color: #FF3300;
+	margin-right: auto;
+	height: 100%;
+	padding-left: 25%;
+}
+iframe {
+	margin-left: 100px;
+	margin-top: 20px;
+	height: 650px;
+	width: 900px;
+}

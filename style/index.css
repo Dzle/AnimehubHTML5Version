@@ -1,0 +1,597 @@
+@charset "utf-8";
+/* CSS Document */
+
+    * {
+    margin: 0;
+    padding: 0;
+    background: none;
+}
+
+
+.logo {
+	position: absolute;
+	width: 250px;
+	height: 130px;
+	left: 227px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	bottom: auto;
+	top: 28px;
+}
+
+#bodymin img {
+	height: 40px;
+	width: 69px;
+	border-radius: 5px
+}
+footer {
+	width: 100%;
+	height: 100px;
+}
+
+.bcard {
+	width: 95%;
+	height: 150px;
+	position: relative;
+	border-radius: 5px;
+	background-color: #FFFFFF;
+	display: block;
+	text-decoration: none;
+	color: #000000;
+	margin-bottom: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	filter: Alpha(opacity=50);
+}
+.bcard a:hover{
+	background-color: #000;
+}
+.blook {
+	display: block;
+	height: 40px;
+	width: 100px;
+	font-size: 15px;
+	line-height: 40px;
+	text-align: center;
+	background-color: #00CCFF;
+	position: absolute;
+	top: 35%;
+	border-radius: 5px;
+	color: #FFFFFF;
+	right: 20px;
+}
+.blook a {
+	color: #FFFFFF;
+	text-decoration: none;
+	display: block;
+	border-radius: 5px;
+}
+.bcard img {
+	height: 146px;
+	width: 108px;
+	margin-top: 2px;
+	margin-left: 5px;
+	border-radius: 5px;
+    filter: Alpha(opacity=50)
+}
+.btame {
+	position: absolute;
+	height: 20px;
+	width: 200px;
+	left: 144px;
+	top: 47px;
+}
+.staff {
+	position: absolute;
+	height: 40px;
+	width: 70%;
+	left: 143px;
+	top: 76px;
+}
+
+
+
+.blook a:hover{
+	background-color: #0099FF;
+	border-radius: 5px;
+}
+
+
+
+.bclass {
+	border: 1px solid #ff0182;
+	width: auto;
+	font-size: 13px;
+	float: left;
+	position: absolute;
+	left: 143px;
+	top: 124px;
+	border-radius: 2px;
+	background-color: #ff0182;
+	color: #FFFFFF;
+	height: 20px;
+	padding-right: 2px;
+	padding-left: 2px;
+	line-height: 20px;
+}
+.bname {
+	display: block;
+	float: left;
+	height: 30px;
+	width: 500px;
+	font-size: 20px;
+	line-height: 30px;
+	position: absolute;
+	left: 137px;
+	top: 12px;
+}
+
+#bodymin a {
+	display: block;
+	width: 60px;
+	height: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 1px;
+	margin-bottom: auto;
+	;
+}
+.bguser {
+	height: 50px;
+	width: auto;
+	list-style-type: none;
+	line-height: 50px;
+	background-color: #FFFFFF99;
+}
+
+#headpic {
+	position: absolute;
+	width: 224px;
+	height: 99px;
+	left: 28px;
+	top: 90px;
+	background-image: url(../images/LOGO.png);
+	bottom: auto;
+}
+
+
+.bguser span {
+	padding-right: 10px;
+	padding-left: 10px;
+	float: left;
+}
+
+
+
+
+#bodymin {
+	height: 40px;
+	width: 1100px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFFFFF;
+	font-size: 24px;
+	border-radius: 3px;
+	font-family: "黑体";
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	}
+#C9 {
+	float: left;
+	width: 59%;
+	margin-top: 10px;
+	height: 230px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+}
+
+
+#slt {
+	width: 1100px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#chrome {
+	height: 60px;
+	width: 1100px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.bguser {
+}
+
+.avideo {
+	width: 150px;
+	height: 100px;
+	position: relative;
+	border: 1px solid #333333;
+	float: left;
+	margin: 5px;
+	border-radius: 5px
+}
+
+#tops p {
+	font-size: 24px;
+	width: 100px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 30px;
+}
+#wepay {
+	background-repeat: no-repeat;
+	text-align: center;
+}
+#l1 li a {
+	color: #000000;
+	text-decoration: none;
+}
+
+
+
+
+#chromebox {
+	width: 50px;
+}
+#bodymin span {
+    font-size: 16px;
+    font-family: "黑体";
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-style: none;
+    margin-right: 10px;
+    display: block;
+    width: 82px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 20px;
+    text-align: center;
+}
+
+#down {
+	text-align: center;
+}
+
+
+
+
+
+#bgon {
+	width: auto;
+	height: 30px;
+}
+#cmd {
+	margin-right: auto;
+	margin-left: auto;
+	width: 500px;
+}
+
+#jd {
+	height: 100px;
+	width: 1100px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFFFCC;
+	text-align: center;
+	white-space: pre;
+}
+#bangumilist {
+	height: 140px;
+	width: 700px;
+	float: left;
+	margin-left: 30px;
+}
+#sousuo {
+	float: left;
+	width: 700px;
+	height: 60px;
+	margin-top: 30px;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+#l1 li {
+	float: none;
+	list-style-type: none;
+}
+#l1 {
+	height: 140px;
+	width: 230px;
+	float: left;
+}
+
+#part1 {
+
+}
+.links {
+	font-style: normal;
+}
+
+#newsbig {
+    height: 211px;
+    float: left;
+    clear: none;
+    width: 430px;
+    margin-top: 17px;
+    margin-bottom: 5px;
+    margin-left: 11px;
+    border-radius: 5px;
+    position: relative;
+    border: 1px solid #999999;
+}
+#bodymin span a {
+	color: #000000;
+	text-decoration: none;
+}
+#ID a:hover {
+	color: #0099FF;
+	text-decoration: underline;
+}
+
+
+
+#bangumi  {
+	width: 80px;
+	height: 30px;
+}
+
+
+
+#body {
+    height: auto;
+    width: 1100px;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+	
+}
+
+
+#emui {
+	width: 100px;
+	float: left;
+	height: 200px;
+	text-align: right;
+	margin-top: 100px;
+}
+
+#news {
+	height: 300px;
+	width: 1100px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 5px;
+	border-radius: 10px;
+	margin-top: 5px;
+}
+#tops iframe {
+	margin-right: auto;
+	margin-left: auto;
+}
+.classname {
+	height: 50px;
+	line-height: 50px;
+	font-size: 20px;
+	width: auto;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+came li a:link,#came li a:visited{
+	border: solid 1px #0099FF;
+	background-color: #FFF;
+	color: #4287ca;
+	text-decoration: none;
+	filter: Alpha(Opacity=90);
+}
+#came li a:hover {
+	border: solid 1px #F90;
+	background-color: #39F;
+	color:#FFF;
+	text-decoration: none;
+	filter: Alpha(Opacity=90);
+}
+#bodymin a:hover{
+	color: #0099FF;
+	background-image: url(../images/pic1.png)
+}
+.home {
+    height: auto;
+    margin-bottom: 10px;
+    margin-top: 27px;
+}
+
+
+
+#hello {
+	height: 56px;
+	width: 65px;
+	background-repeat: no-repeat;
+	position: absolute;
+	left: 298px;
+	top: 767px;
+}
+.about {
+	position: fixed;
+	height: 50px;
+	width: 100%;
+	background-color: #333;
+}
+
+.bangumi-table-b {
+	background-color: #FFFFFF;
+}
+.bangumi-table-a {
+	width: 1080px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 470px;
+}
+    .target {
+	width: 700px;
+	height: 300px;
+	overflow: hidden;
+	position: relative;
+	margin-left: auto;
+	float: left;
+	margin-right: auto;
+			}
+			.target img {
+				position:absolute;
+				top:0;
+				left:0;
+				width:100%;
+				height:100%;
+                border-radius: 10px;
+			}
+#news .newspart {
+	float: left;
+	width: 620px;
+	height: 250px;
+}
+
+#body .dison {
+	height: 250px;
+}
+#body .dison .xbox {
+	height: 200px;
+	width: 146px;
+	float: left;
+	margin-right: 15px;
+	margin-left: 20px;
+	position: relative;
+}
+#body .dison .xbox #name {
+	height: 10%;
+	width: 100%;
+	position: absolute;
+	left: 0px;
+	top: 179px;
+	color: #FFFFFF;
+	background-color: #000;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+#body .dison .xbox #name p{
+	align-content: center;
+}
+
+#tip {
+	background-color: #FFFF99;
+	height: 40px;
+	line-height: 40px;
+	font-size: 12px;
+	color: #FF6633;
+	text-align: center;
+}
+#name-top {
+	height: 50px;
+	position: relative;
+}
+#name-top #all {
+	display: block;
+	position: absolute;
+	font-size: 14px;
+	left: 1028px;
+	top: 16px;
+	width: 70px;
+}
+#name-top h2 {
+	line-height: 50px;
+	display: block;
+	width: 10%;
+	margin-left: 20px;
+	float: left;
+}
+.xbox img{
+    border-radius: 5px;
+    background-image: url(../images/bgdata-error.jpg);
+}
+#news .newtop {
+	float: left;
+	width: 400px;
+	height: 300px;
+}
+
+
+
+
+
+#footer #footer-info li {
+    line-height: 1.4em;
+}
+
+#footer ul li {
+    color: #222;
+    margin: 0;
+    padding: 0;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    font-size: 0.7em;
+}
+#footer-info-copyright {
+    background: url(//img.moegirl.org.cn/weixin_mengbai.png) 0 15px no-repeat;
+    padding: 15px 0 30px 0;
+    font-family: Helvetica Neue,Arial,Helvetica,Geneva,sans-serif;
+    min-height: 165px;
+}
+li {
+    margin-bottom: 0.1em;
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+#footer ul {
+    list-style-type: none;
+    list-style-image: none;
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style-type: disc;
+    list-style-image: url(data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%225… cx=%222.5%22 cy=%229.5%22 r=%222.5%22 fill=%22%2300528c%22/%3E %3C/svg%3E);
+    list-style-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAANCAIAAADuXjPfAAAABnRST…t9AAAAHklEQVR4AWP4jwrowWcI6oEgEBtIISNCfFT9mOYDACO/lbNIGC/yAAAAAElFTkSuQmCC) \9;
+    list-style-image: url(/skins/Vector/images/bullet-icon.png?e31f8) \9!ie;
+}
+ul {
+    list-style-type: square;
+    margin: 0.3em 0 0 1.6em;
+    padding: 0;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+#footer {
+    margin-left: 10em;
+    margin-top: 0;
+    padding: 0.75em;
+    direction: ltr;
+}
+html body, html #firstHeading {
+    font-family: sans-serif,NospzGothicMoe,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+body, #firstHeading {
+    font-family: sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+html {
+    font-size: 100%;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}

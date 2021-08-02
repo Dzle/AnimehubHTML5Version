@@ -1,0 +1,35 @@
+@charset "utf-8";#head0 {
+	padding-top: 2px;
+	padding-right: 60px;
+	padding-bottom: 150px;
+	padding-left: 60px;
+	background-repeat: no-repeat;
+	float: none;
+}
+#head1 {
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin: 0px;
+	float: none;
+	width: 250px;
+	height: 500px;
+}
+#ad {
+	height: 204px;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	background-color: #FFFFFF;
+	width: 737px;
+}
+#BG1 {
+	height: 190px;
+	width: 320px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+body {
+	background-image: url(../images/bg_1.gif);
+}

@@ -1,0 +1,16 @@
+@charset "utf-8";
+.video {
+	height: 500px;
+	width: 850px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 200px;
+	
+}
+.body {
+	clear: both;
+	height: 900px;
+	width: 1280px;
+	margin-right: auto;
+	margin-left: auto;
+}
