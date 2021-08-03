@@ -482,14 +482,7 @@ came li a:link,#came li a:visited{
 	align-content: center;
 }
 
-#tip {
-	background-color: #FFFF99;
-	height: 40px;
-	line-height: 40px;
-	font-size: 12px;
-	color: #FF6633;
-	text-align: center;
-}
+
 #name-top {
 	height: 50px;
 	position: relative;
