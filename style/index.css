@@ -9,6 +9,7 @@
 
 
 .logo {
+	background-image: url(../images/logo.png);
 	position: absolute;
 	width: 250px;
 	height: 130px;
@@ -17,6 +18,8 @@
 	background-position: center center;
 	bottom: auto;
 	top: 28px;
+	background-image: none;
+	line-height: 125px;
 }
 
 #bodymin img {
