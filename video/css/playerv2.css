@@ -84,3 +84,26 @@
 	background: #00ccff;
 	color: #FFF
 }
+
+@media (max-width: 1080px){
+	.head{
+		height: 100px;
+	}
+	.head li {
+	line-height: 100px;
+	display: block;
+	width: 100px;
+	float: left;
+	text-align: center;
+	margin-right: 10px;
+	list-style-type: none;
+}
+	    .player_top {
+	margin-bottom: 20px;
+	margin-top: 20px;
+	width: 100%;
+	height: auto;
+	margin-right: auto;
+	margin-left: auto;
+}
+}
