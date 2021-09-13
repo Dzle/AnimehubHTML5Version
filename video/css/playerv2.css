@@ -145,3 +145,21 @@
 		margin-left: 100px;
 	}
 }
+
+@media (max-width: 766px){
+	.player_top .bangumi_pod .bangumi_podlist {
+	color:#000000;
+	height: 150px;
+	width: 20%;
+	padding: 5px;
+	display: block;
+	text-decoration: none;
+	line-height: 150px;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 5px;
+	margin-right: 15px;
+	float: left;
+	border-radius:13px;
+}
+}
