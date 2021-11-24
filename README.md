@@ -1,4 +1,4 @@
-# mediapowered.github.io
+# ANIMEHUB.github.io
 <h3>这是什么？</h3>
 这是基于GithubPeges搭建的网站。<BR>
 预览地址：http://animehub.cn<BR>
