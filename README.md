@@ -1,8 +1,8 @@
 # mediapowered.github.io
 <h3>这是什么？</h3>
 这是基于GithubPeges搭建的网站。<BR>
-预览地址：http://mediapowered.org.cn<BR>
-项目地址：https://github.com/Dzle/mediapowered.github.io
+预览地址：http://animehub.cn<BR>
+项目地址：https://github.com/Dzle/animehub.github.io
 <h3>架构组成</h3>
  这是一个纯HTML老项目，如你所见没有任何动态语言。<BR>
   <h3>来由</h3>
