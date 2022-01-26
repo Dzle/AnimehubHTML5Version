@@ -14,4 +14,4 @@
  如果是学校局域网搭建的IIS服务器请下载版本号为v0.2.0的代码。往后代码都有不适合IIS服务器的JS库。
 <H3> 重构网站的计划</H3>
 目前，项目由零贰工作室维护。
- <img width="500" height="500" file="https://user-images.githubusercontent.com/56746258/151091131-bf06c84f-1fd3-4961-8a58-14c81b99eae5.png">
+ <img width="500" height="500" file="http://store.animehub.cn/Z2PASS.png">
