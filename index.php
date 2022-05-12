@@ -1,0 +1,236 @@
+<!doctype html>
+<html>
+<head>
+	<!-- Google AdSense -->
+<script data-ad-client="ca-pub-6550660867966230" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V1BV7Y2XQ7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-V1BV7Y2XQ7');
+</script>
+<meta charset="utf-8">
+<meta charset="utf-8">
+<link>
+<title>AnimeHUB--我们热爱动画，和你在一起！(〃'▽'〃)</title>
+<link rel="icon" href="images/ico.ico" >
+<link href="style/index.css" rel="stylesheet" type="text/css">
+<link href="style/header.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript"  src="js/L2Dwidget.0.min.js"></script>
+    <script type="text/javascript"  src="js/L2Dwidget.min.js"></script>
+<style type="text/css">
+.STYLE2 {font-size: 12px}
+	#live2dcanvas {
+    border: 0 !important;
+}
+	*{
+		padding: 0px;
+		margin: 0px;
+	}
+.STYLE4 {
+	color: #FFFFFF;
+	display: block;
+	float: left;
+	line-height:150px;
+}
+.STYLE5{
+	color: #000000;
+	background-color: #FF9900;
+	display: block;
+	width: auto;
+	float: left;
+	height: 45px;
+	margin-top: 54px;
+	line-height: 45px;
+	border-radius:5px;
+	text-align: center;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+</style>
+<!-------->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+
+
+
+
+<div id="bg">
+  <div class="nav-mask">
+    
+    <a href="channel/tell/up_video.html" target="_blank" class="u-link"> 投稿 </a></div>
+  <div class="logo">
+    <H1 class="STYLE4">Anime</H1><div class="STYLE5">
+    <h1>Hub</h1>
+  </div></div>
+</div>
+<div id="tip"><?php $sid= session_start();   echo"站点目前正在使用的SESSION文件数共:".$sid."个。"; ?></div>
+<div id="bodymin"><span><a href="mediapowered.org.cn">首页</a></span> <span><a href="wiki.moeja.cn" target="_blank">百科</a></span> <span><a href="https://moeja.cn/category/%e6%b8%b8%e6%88%8f%e8%b5%84%e6%ba%90/">游戏</a></span> <span><a href="channel/search_google.cn$local/Google.htm" target="_blank">搜索</a></span> <span><a href="channel/hotpot$local/">热门</a></span> <span><a href="https://lab.moeja.cn">实验室</a></span> <span><a href="wikipad.moeja.cn">Wiki</a></span> <span><a href="bbs.moeja.cn">论坛</a></span> <span><a href="https://moeja.cn">博客</a></span> <span><a href="https://moeja.cn/%e6%94%af%e6%8c%81%e6%88%91%e4%bb%ac/" target="_blank">投喂姬</a></span><img src="images/16d5e9d8f97411b26013ab9e57df3a85c63a511f.gif" width="69" height="40"> </div>
+
+	<div id="news">
+  
+    <div class="target" id="target-1">
+      <div>
+        <div><a href="video/pages/movie/md13/" target="_blank"><img src="images/t1.png"></a></div>
+        <div><img src="t2.png"></div>
+        <div><img src="t3.png"></div>
+        <div><img src="t4.png"></div>
+      </div>
+  </div>
+  <div class="newtop">
+    
+    <div class="nomobile cbox-autonarrow" style="margin-bottom:12px; margin-top:12px;display:flex; flex-direction: row; flex-wrap: nowrap; background-color: #EBF7FE; width:825px; max-width:100%; border-radius:5px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);">
+ <div style="display:flex; padding:10px 10px 10px 10px; width:40px; min-width:40px; max-width:40px; justify-content: center; background-color:#85C1F7; color:greenyellow; border-radius:4px 0 0 4px; box-sizing:border-box;"><i class="fa-info fas" style="font-size:24px;height:24px;color:;"></i></div>
+ <div style="display:block; padding:12px 12px 12px 12px; flex-grow:1; -webkit-box-flex:1; box-sizing:border-box;"><big><strong>欢迎来到AnimeHUB</strong></big><br>
+你可以在这里讨论本站的建设和编写相关话题。</div>
+</div>
+	 <div class="nomobile cbox-autonarrow" style="margin-bottom:12px; margin-top:12px;display:flex; flex-direction: row; flex-wrap: nowrap; background-color: #EBF7FE; width:825px; max-width:100%; border-radius:5px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);">
+ <div style="display:flex; padding:10px 10px 10px 10px; width:40px; min-width:40px; max-width:40px; justify-content: center; background-color:#85C1F7; color:greenyellow; border-radius:4px 0 0 4px; box-sizing:border-box;"><i class="fa-info fas" style="font-size:24px;height:24px;color:;"></i></div>
+ <div style="display:block; padding:12px 12px 12px 12px; flex-grow:1; -webkit-box-flex:1; box-sizing:border-box;"><strong>AnimeHUB资源自检</strong><br>
+   我们会定期巡查AnimeHUB的资源。我们会删除服务器内“本不应存在”的敏感资源。<br>
+ </div>
+</div>
+    <div class="nomobile cbox-autonarrow" style="margin-bottom:12px; margin-top:12px;display:flex; flex-direction: row; flex-wrap: nowrap; background-color: #FEF9DE; width:825px; max-width:100%; border-radius:5px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);">
+ <div style="display:flex; padding:10px 10px 10px 10px; width:40px; min-width:40px; max-width:40px; justify-content: center; background-color:#F9E179; color:#F1BD4C; border-radius:4px 0 0 4px; box-sizing:border-box;"><i class="fa-exclamation fas" style="font-size:24px;height:24px;color:;"></i></div>
+ <div style="display:block; padding:12px 12px 12px 12px; flex-grow:1; -webkit-box-flex:1; box-sizing:border-box;"><big><strong>请在讨论时遵守礼仪。</strong></big><br>
+我们欢迎各位讨论动画作品和提供引入建议。<br>
+ </div>
+</div>
+
+    <span class="tl-hll" style="display:inline-block; margin-left:4px; margin-right:4px; padding-left:8px;padding-right:8px; border-left:solid 4px #F1BD4C; background:#F9E179; color:black; border-radius:2px;"><em class="fa-asterisk fas" style="font-size:;height:;color:#F1BD4C;"></em> 部分完成</span>部分图片没有接入。 <span class="tl-hll" style="display:inline-block; margin-left:4px; margin-right:4px; padding-left:8px;padding-right:8px; border-left:solid 4px #84B63C; background:#B9E66B; color:black; border-radius:2px;"><em class="fa-check fas" style="font-size:;height:;color:#84B63C;"></em> 完成</span>通过链接测试 </div>
+</div>
+	
+	<div style="display:block; position:relative; left:50%; transform:translateX(-50%); overflow:hidden; background: none; width:825px;height:140px;" class="nomobile">
+  <div style="display:block; position:absolute; left:86px; top:35px; overflow:hidden; background: linear-gradient(to right, #091263, #51a4d3, #091263 );width:728px;height:90px; box-shadow:1px 1px 2px rgba(127,127,127,0.5),1px -1px 2px rgba(127,127,127,0.5),-1px 1px 2px rgba(127,127,127,0.5),-1px -1px 2px rgba(127,127,127,0.5);">
+
+  <div style="position:absolute; bottom:50%; right:0; width:728px; transform:translateY(50%); color:#F2F1EB; font-size:20px; font-weight:bolder; text-align:center;text-shadow:0px 0px 2px black, 1px 1px 2px rgba(0,0,0,0.6);"></div></div>
+<p>
+</p>
+  <div style="position:absolute; bottom:0; left:0px;"><img src="/images/95px-CC-ads.png" ></div>
+		
+</div>
+
+<div id="body">
+
+<div class="dison">
+    <div id="name-top">
+      <h2>本季新番</h2><h3 class="STYLE2" style="color:#666666; display:block;line-height:60px">完结后将不会再次显示。</h3>
+      <h3 id="all"><a href="*">查看更多></a></h3>
+    </div>
+    <div class="xbox"><a href="bangumi/bv11/" target="_blank"><img src="images/subimages/LLS.jpg"width="146" height="197"></a>
+      <div id="name">lovelive superstar</div>
+    </div>
+    <div class="xbox"><a href="bangumi/bv12/" title="青梅竹马不会输的恋爱喜剧" target="_blank"><img src="images/subimages/qmzmnots.jpg"width="146" height="197"></a>
+      <div id="name">青梅竹马不会输...</div>
+    </div>
+    <div class="xbox"><img src="images/subimages/82d628408f5472f1440982e880b0b4f0146862ad.png"width="146" height="197">
+      <div id="name">name</div>
+    </div>
+    <div class="xbox"><img src="images/subimages/9477f8b8f2e9fefa328f8f9e3f6f6cc1e00d5aa9.png"width="146" height="197">
+      <div id="name">name</div>
+    </div>
+    <div class="xbox"><img src="images/subimages/85c6e348a00a54d0b86d538efb186e006a027e21.png"width="146" height="197">
+      <div id="name">某科学的超电磁炮T</div>
+    </div>
+    <div class="xbox"><img src="images/subimages/41672aa2ffe3d1686740c7a05921b6a0f23a5983.png"width="146" height="197">
+      <div id="name">租借女友</div>
+    </div>
+  </div>
+<div class="dison">
+    <div id="name-top">
+      <h2>绅士领域</h2><h3 class="STYLE2" style="color:#666666; display:block;line-height:60px">统统把你们铐起来。</h3>
+      <h3 id="all"><a href="*">查看更多></a></h3>
+    </div>
+    <div class="xbox"><a href="bangumi/av1/" target="_blank"><img src="images/subimages/コスプレ楽園.jpg"width="146" height="197"></a>
+      <div id="name">コスプレ楽園</div>
+    </div>
+    <div class="xbox"><a href="bangumi/av2" title="ふた部！" target="_blank"><img src="images/subimages/ふた部！前編.jpg"width="146" height="197"></a>
+      <div id="name">ふた部！</div>
+    </div>
+    <div class="xbox"><a href="bangumi/av3" title="特別授業" target="_blank"><img src="images/subimages/特別授業 3SLG THE ANIMATION EXTEND.jpg"width="146" height="197"></a>
+      <div id="name">特別授業</div>
+    </div>
+    <div class="xbox"><a href="bangumi/av4" title="Swing Out Sisters 完全版" target="_blank"><img src="images/subimages/ss2_topimg.jpg"width="146" height="197"></a>
+      <div id="name">Swing Out Sisters 完全版</div>
+    </div>
+    <div class="xbox"><a href="bangumi/av5" title="イマコシステム I" target="_blank"><img src="images/subimages/イマコシステム I ～イマコさんとイチナくん～［緑のルーペ］.jpg"width="146" height="197"></a>
+      <div id="name">イマコシステム I</div>
+    </div>
+    <div class="xbox"><a href="bangumi/av6" title="もう挟まずにはいられない" target="_blank"><img src="images/subimages/[140228][PashminaＡ]もう挟まずにはいられない ~星にお願いしたらこんなにおっきくなっちゃった!.jpg"width="146" height="197"></a>
+      <div id="name">もう挟まずにはいられない</div>
+    </div>
+  </div>
+  <div id="home">
+    <div id="name-top">
+      <h2>新番速报</h2><h3 class="STYLE2" style="color:#666666; display:block;line-height:60px">网罗各类作品动画化信息</h3>
+      <h3 id="all"><a href="*">查看更多></a></h3>
+    </div>
+    <div class="bcard" href="https://www.bilbili.com"><img src="images/subimages/202108041.jpg" width="108" height="146">
+      <p class="bname">《境界触发者》第三季</p>
+      <p class="blook"  ><a href="https://www.bilibili.com">暂无相关视频</a></p>
+      <p class="bclass">番剧</p>
+      <p class="btame">2021年10月开播</p>
+      <p class="staff">暂无STAFF数据</p>
+    </div>
+    <div class="bcard" href="https://www.bilbili.com"><img src="images/subimages/202108042.jpg">
+      <p class="bname">《永远的831》</p>
+      <p class="btame">2022年1月开播</p>
+      <p class="staff">原作/监督/脚本：神山健治&nbsp;&nbsp;<br>
+        动画制作：CRAFTAR<br></p>
+      <p class="blook"  ><a href="https://www.bilibili.com">观看PV</a></p>
+      <p class="bclass">番剧/原创动画</p>
+    </div>
+    <div class="bcard" href="https://www.bilbili.com"> <img src="images/subimages/202108061.jpg">
+      <p class="bname">《爱书的下克上：为了成为图书管理员不择手段！》</p>
+      <p class="btame">2022年4月开播</p>
+      <p class="staff">暂无STAFF数据<br></p>
+      <p class="blook"  ><a href="https://www.bilibili.com">观看特报视频</a></p>
+      <p class="bclass">番剧</p>
+    </div>
+    <div class="bcard" href="https://www.bilbili.com"> <img src= "images/subimages/202108062.jpg">
+      <p class="bname">《东方少年》</p>
+	<p class="btame">2022年开播</p>
+      <p class="blook"  ><a href="bangumi/yourname-old.html" target="_blank">进入专题页</a></p>
+      <p class="staff">原作：原作：大高忍&nbsp;&nbsp;监督：柳泽哲也&nbsp;&nbsp;系列构成：国泽真理子&nbsp;&nbsp;人设：岸田隆宏&nbsp;&nbsp;音乐：深泽秀行<BR>
+		 动画制作：A・C・G・T </p>
+		  <p class="bclass">番剧</p>
+    </div>
+  </div>
+</div>
+	
+<div id="footer" role="contentinfo" lang="zh-CN" dir="ltr">
+  <ul id="footer-info">
+    <li id="footer-info-lastmod">animehub.cn|AnimeHUB|<a href="https://github.com/Dzle/animehub/releases"> 更新日志</a>|<a href="https://icp.gov.moe/?keyword=20210046" target="_blank">萌ICP备20210046号</a>|本网站服务器由<img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" width="20" height="20" class="d-block" loading="lazy" decoding="async" alt="GitHub mark"><a href="https://github.com/Dzle/mediapowered.github.io" target="_blank"><img src="GitHub-Logos/GitHub_Logo.png" width="61" height="16"></a>Pages强力驱动。</li>
+<li id="footer-info-copyright">
+							</ul>
+<ul id="footer-places">
+								
+<li style="display: none;"><a href="#">启用预览</a></li></ul>
+										<ul id="footer-icons" class="noprint">
+										
+</div>
+<script src="js/jquery.min.js"></script><!--轮播图JS脚本-->
+<script src="js/HappyImage.min.js"></script>
+<script>
+            $( "#target-1" ).HappyImage({
+            	effect: "slide"
+            });
+        </script>
+ <script>
+      L2Dwidget.init({"display": {
+      "superSample": 2,
+      "width": 200,
+      "height": 400,
+              "position": "right",
+                  "hOffset": 0,
+      "vOffset": 0
+          }
+      });
+    </script>
+</body>
+	
+</html>
